@@ -1,4 +1,4 @@
-package AAB-Prog;
+package prog;
 import robocode.*;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/JuniorRobot.html
